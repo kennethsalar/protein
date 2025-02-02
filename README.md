@@ -21,7 +21,7 @@
             justify-content: center;
             height: 100vh;
             margin: 0;
-            background-color: #f0f0f0;
+            background-color: white;
             font-family: Arial, sans-serif;
         }
 
